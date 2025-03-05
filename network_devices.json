@@ -1,0 +1,27 @@
+[
+    {
+        "ip": "192.168.0.1",
+        "mac": "60:14:66:ea:83:28",
+        "hostname": "Unknown"
+    },
+    {
+        "ip": "192.168.0.163",
+        "mac": "6a:2c:4d:6b:18:1d",
+        "hostname": "Unknown"
+    },
+    {
+        "ip": "192.168.0.177",
+        "mac": "a4:4e:31:55:1b:8c",
+        "hostname": "Unknown"
+    },
+    {
+        "ip": "192.168.0.171",
+        "mac": "06:49:cd:9a:bc:83",
+        "hostname": "Unknown"
+    },
+    {
+        "ip": "192.168.0.180",
+        "mac": "7a:67:0d:37:29:71",
+        "hostname": "Unknown"
+    }
+]

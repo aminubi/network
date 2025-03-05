@@ -1,0 +1,51 @@
+[
+    {
+        "ip": "192.168.0.1",
+        "mac": "60:14:66:ea:83:28",
+        "hostname": "Unknown",
+        "upload": 365615,
+        "download": 304719
+    },
+    {
+        "ip": "192.168.0.110",
+        "mac": "72:9f:6a:db:48:67",
+        "hostname": "Unknown",
+        "upload": 620,
+        "download": 0
+    },
+    {
+        "ip": "192.168.0.118",
+        "mac": "60:67:20:5e:03:3c",
+        "hostname": "Unknown",
+        "upload": 6699,
+        "download": 0
+    },
+    {
+        "ip": "192.168.0.132",
+        "mac": "5c:5f:67:ec:15:d0",
+        "hostname": "Unknown",
+        "upload": 3298,
+        "download": 0
+    },
+    {
+        "ip": "192.168.0.177",
+        "mac": "a4:4e:31:55:1b:8c",
+        "hostname": "Unknown",
+        "upload": 1623,
+        "download": 0
+    },
+    {
+        "ip": "192.168.0.180",
+        "mac": "7a:67:0d:37:29:71",
+        "hostname": "Unknown",
+        "upload": 2412,
+        "download": 0
+    },
+    {
+        "ip": "192.168.0.119",
+        "mac": "ac:7b:a1:5b:0f:54",
+        "hostname": "Unknown",
+        "upload": 4008,
+        "download": 0
+    }
+]
