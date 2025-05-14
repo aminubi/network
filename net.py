@@ -8,7 +8,7 @@ from scapy.layers.inet import IP, TCP, UDP
 from collections import defaultdict
 import pandas as pd
 
-# Function to scan the network using ARP requests
+
 def arp_scan(network):
     print(f"Scanning network: {network}...")
 
